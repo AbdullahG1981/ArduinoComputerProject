@@ -1,6 +1,3 @@
-// https://www.youtube.com/channel/UCaXI2PcsTlH5g0et67kdD6g  //
-// Traffic Lights //
-// By MOHD SOHAIL //
 
 int led1=2;      // Conncet a resistor of 220 ohms with GND terminal 
 int led2=3;
